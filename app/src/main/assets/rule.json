@@ -1,0 +1,14 @@
+[
+  {
+    "title": "SOKANKAN",
+    "outrule": "div#w0.list-view article.item div",
+    "linkadress": "a[href]",
+    "linkNam": "h4"
+  },
+  {
+    "title": "小草",
+    "outrule": "div#w0.list-view article.item div",
+    "linkadress": "a[href]",
+    "linkNam": "h4"
+  }
+]
